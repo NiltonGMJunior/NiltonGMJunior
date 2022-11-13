@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [http://github.com/niltongmjunior](GitHub) and [http://gitlab.com/niltongmjunior](GitLab)
+- 👨‍💻 All of my projects are available at [GitHub](http://github.com/niltongmjunior) and [GitLab](http://gitlab.com/niltongmjunior)
 
 - 💬 Ask me about **Python, Flask, Django, microservices, SQL, AWS**
 
 - 📫 Reach me at **ngm.junior@outlook.com**
 
-- 📄 More about my experiences in my [https://standardresume.co/r/V5yLOp-LHaclcJ8GgHeVj](resume)
+- 📄 More about my experiences in my [resume](https://standardresume.co/r/V5yLOp-LHaclcJ8GgHeVj)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

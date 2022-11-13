@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Flask, Django, microservices, SQL, AWS**
 
-- 📫 How to reach me **ngm.junior@outlook.com**
+- 📫 Reach me at **ngm.junior@outlook.com**
 
 - 📄 Know about my experiences [https://standardresume.co/r/V5yLOp-LHaclcJ8GgHeVj](https://standardresume.co/r/V5yLOp-LHaclcJ8GgHeVj)
 

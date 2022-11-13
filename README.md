@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [http://github.com/niltongmjunior](http://github.com/niltongmjunior)
+- 👨‍💻 All of my projects are available at [http://github.com/niltongmjunior](http://github.com/niltongmjunior) and [http://gitlab.com/niltongmjunior](http://gitlab.com/niltongmjunior)
 
 - 💬 Ask me about **Python, Flask, Django, microservices, SQL, AWS**
 

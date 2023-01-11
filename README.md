@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Nova Tendencia](https://www.ntendencia.com.br/)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Go** and **Rust**
 
 - 👨‍💻 All of my projects are available at [GitHub](http://github.com/niltongmjunior) and [GitLab](http://gitlab.com/niltongmjunior)
 
